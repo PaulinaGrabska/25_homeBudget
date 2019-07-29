@@ -1,6 +1,6 @@
 public enum Type {
 
-    expenditure("expenditure"),income("income");
+    EXPENDITURE("expenditure"),INCOME("income");
 
     private String description;
 
