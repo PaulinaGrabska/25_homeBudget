@@ -1,10 +1,11 @@
 public enum Type {
 
-    EXPENDITURE("expenditure"),INCOME("income");
+    expenditure("expenditure"),income("income");
 
     private String description;
 
     Type(String description) {
+
         this.description = description;
     }
 

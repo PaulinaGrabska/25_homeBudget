@@ -2,43 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36531eb8-93b1-4905-a33b-6fc2a4124df7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibrarySave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeBudget.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionSave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc_!/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc_!/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc_!/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc_!/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc_!/jdbc_!.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/static/img/kon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/static/img/rudy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/dodajZwierzaka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/edytujZwierzaka.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditionalTasks/MovieDatabase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTasks/MovieDatabase/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditionalTasks/MovieDatabase/out/production/MovieDatabase/com/javastart/movieDatabase/app/Filmueb.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTasks/MovieDatabase/out/production/MovieDatabase/com/javastart/movieDatabase/app/Filmueb.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditionalTasks/MovieDatabase/out/production/MovieDatabase/com/javastart/movieDatabase/model/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTasks/MovieDatabase/out/production/MovieDatabase/com/javastart/movieDatabase/model/Actor.class" afterDir="false" />
@@ -92,6 +55,22 @@
       <change beforePath="$PROJECT_DIR$/../ex14/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex14/numbers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex15/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex15/countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../ex15/countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibrarySave.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibrarySave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex_jdbc/src/main/java/biblioteka/LibraryUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TransactionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TransactionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc_!/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_!/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../productlist/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../productlist/src/main/resources/templates/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../products/src/main/java/pl/javastart/products/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../products/src/main/java/pl/javastart/products/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../products/src/main/java/pl/javastart/products/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../products/src/main/java/pl/javastart/products/Product.java" afterDir="false" />
@@ -106,6 +85,8 @@
       <change beforePath="$PROJECT_DIR$/../schronisko/src/main/java/pl/javastart/schronisko/SchroniskoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/java/pl/javastart/schronisko/SchroniskoRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../schronisko/src/main/java/pl/javastart/schronisko/Zwierzak.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/java/pl/javastart/schronisko/Zwierzak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../schronisko/src/main/resources/static/img/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/static/img/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/dodajZwierzaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/dodajZwierzaka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/edytujZwierzaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/edytujZwierzaka.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/zwierzak.html" beforeDir="false" afterPath="$PROJECT_DIR$/../schronisko/src/main/resources/templates/zwierzak.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-example/src/main/java/pl/javastart/springbootexample/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-example/src/main/java/pl/javastart/springbootexample/HelloController.java" afterDir="false" />
@@ -124,25 +105,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Transaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TransactionDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+            <state relative-caret-position="205">
+              <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -152,6 +132,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Type.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -172,7 +161,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,7 +170,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/BookDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/LibraryIO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Type.java" />
         <option value="$PROJECT_DIR$/src/main/java/LibrarySave.java" />
         <option value="$PROJECT_DIR$/src/main/java/TransactionSave.java" />
         <option value="$PROJECT_DIR$/src/main/java/LibraryUpdate.java" />
@@ -193,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/main/java/TransactionIO.java" />
         <option value="$PROJECT_DIR$/src/main/java/Transaction.java" />
         <option value="$PROJECT_DIR$/src/main/java/TransactionDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Type.java" />
       </list>
     </option>
   </component>
@@ -203,9 +192,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2175" />
-    <option name="y" value="41" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="167" />
+    <option name="y" value="106" />
     <option name="width" value="1488" />
     <option name="height" value="892" />
   </component>
@@ -309,26 +298,27 @@
       <option name="presentableId" value="Default" />
       <updated>1564341879458</updated>
       <workItem from="1564341885157" duration="4910000" />
-      <workItem from="1564384884343" duration="739000" />
+      <workItem from="1564384884343" duration="3374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5649000" />
+    <option name="totallyTimeSpent" value="8284000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2175" y="41" width="1488" height="892" extended-state="1" />
+    <frame x="167" y="106" width="1488" height="892" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.627451" visible="true" weight="0.22689076" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.627451" visible="true" weight="0.22689076" />
       <window_info id="Structure" order="6" sideWeight="0.37254903" side_tool="true" visible="true" weight="0.22689076" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32806325" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32806325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992095" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,22 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,17 +538,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Transaction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Type.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TransactionDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        <state relative-caret-position="205">
+          <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>

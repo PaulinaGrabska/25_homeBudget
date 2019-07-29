@@ -70,6 +70,6 @@ public class Transaction {
                 "\ntype= " + type +
                 "\ndescription= " + description +
                 "\namount= " + amount +
-                ",\n date= " + date;
+                "\ndate= " + date;
     }
 }

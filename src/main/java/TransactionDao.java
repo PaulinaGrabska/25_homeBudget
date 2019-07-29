@@ -57,7 +57,7 @@ public class TransactionDao {
                 return transaction;
             }
         } catch (SQLException e) {
-            System.out.println("Could not get transaction");
+            System.out.println("Could not get transaction. Reason: " + e.getMessage());
         }
         return null; // lub ElementNotFoundException }
     }
